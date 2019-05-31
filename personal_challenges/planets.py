@@ -13,14 +13,12 @@ for i in range(len(planets)):
     user_input = ""
 
     while user_input.lower() != planets[i+1][0].lower():
-        user_input = input("What is planet no. {} from the sun?\n".format(i+1))
+        user_input = input(f"What is planet no. {i+1} from the sun?\n")
 
-    print("\n{} is Correct!\n".format(planets[i+1][0]))
+    print(f"\n{planets[i+1][0]} is Correct!\n")
 
     try:
         if planets[i+1][1]:
-            print("Fun fact: {} was named after the Greek God {}, who is the {}.\n".format(planets[i+1][0],
-                                                                                           planets[i+1][1],
-                                                                                           planets[i+1][2]))
+            print(f"Fun fact: {planets[i+1][0]} was named after the Greek God {planets[i+1][1]}, who is the {planets[i+1][2]}.\n")
     except:
         print()
