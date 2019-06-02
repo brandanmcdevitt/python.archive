@@ -4,7 +4,7 @@
 
 #### Python courses taken:
 
-The Modern Python 3 Bootcamp (in progress)</br>
+<a href="www.udemy.com/the-modern-python3-bootcamp/">The Modern Python 3 Bootcamp</a> (in progress)</br>
 Topics covered:
 * Numbers and Operators
 * Variables and Strings
