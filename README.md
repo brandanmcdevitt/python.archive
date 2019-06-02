@@ -1,6 +1,8 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width="100">
 
-### An archive of Python
+### My Journey Through Python
+
+I have worked with Python in developing projects for university and enjoyed the experience. I aim to become more proficient with the language and eventually learn how to use Python for data analysis and machine learning. This repository was created to archive my progress along the way.
 
 #### Python courses taken:
 
