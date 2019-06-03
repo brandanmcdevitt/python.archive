@@ -14,6 +14,9 @@ for i in range(len(planets)):
 
     while user_input.lower() != planets[i+1][0].lower():
         user_input = input(f"What is planet no. {i+1} from the sun?\n")
+        
+        if user_input.lower() != planets[i+1][0].lower():
+            print(f"\nSorry, {user_input} is not correct.\n")
 
     print(f"\n{planets[i+1][0]} is Correct!\n")
 
