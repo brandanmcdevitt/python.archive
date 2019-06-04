@@ -6,10 +6,10 @@ numbers = (1,2,3,4)
 # 2. Create a variable which is a tuple with the the value 1 inside.
 value = (1,)
 
-# 3. Create a variable which is the result of the values variable converted to a tuple
+# 3. Create a variable which is the result of the a list converted to a tuple
 static_values = tuple([10,20,30])
 
-# 4. Create a variable which is a set of only the unique values in the stuff list
+# 4. Create a variable which is a set of only the unique values in a list
 my_first_set = set([1,3,1,5,2,5,1,2,5])
 
 # 5. Create two sets and show both the union and intersection between both
