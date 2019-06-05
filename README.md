@@ -17,7 +17,8 @@ Topics covered:
 * Dictionaries
 * Tuples and Sets
 * Functions
-* Lambdas, Map & Filters
+* Lambdas, Map & Filter
+* Built-in Functions)
 * Error Handling
 * Modules
 * Object-Orientated Programming
