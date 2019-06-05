@@ -9,22 +9,13 @@ import math
 
 # game loop
 while True:
-    all_heights = []
-    max_height = 0
-    target = 0
-    
+    h = []
     for i in xrange(8):
         mountain_h = int(raw_input())  # represents the height of one mountain.
-        all_heights.append(mountain_h)
-        
+        h.append(mountain_h)
     # Write an action using print
     # To debug: print >> sys.stderr, "Debug messages..."
-    
-    for height in range(8):
-        if all_heights[height] > max_height:
-            max_height = all_heights[height]
-            target = height
 
-
-    # The index of the mountain to fire on.
-    print(target)
+    # The index of the mountain to fire on
+    index = [i for i, x in enumerate(h) if x == max(h)]
+    print(index[0])
