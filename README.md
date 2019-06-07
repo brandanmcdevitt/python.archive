@@ -21,6 +21,7 @@ Topics covered:
 * Built-in Functions
 * Error Handling
 * Modules
+* HTTP Requests
 * Object-Orientated Programming
 * Iterators and Generators
 * Decorators
