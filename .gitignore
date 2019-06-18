@@ -4,3 +4,4 @@
 __pycache__/
 story*.txt
 users*.csv
+blog_data.csv
