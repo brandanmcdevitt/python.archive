@@ -27,3 +27,6 @@ Topics covered:
 * Decorators
 * Testing
 * File IO
+* Web Scraping
+* Regular Expressions
+* Python + SQL
