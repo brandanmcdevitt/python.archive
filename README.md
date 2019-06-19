@@ -2,11 +2,11 @@
 
 ### My Journey Through Python
 
-I have worked with Python in developing projects for university and enjoyed the experience. I aim to become more proficient with the language and eventually learn how to use Python for data analysis and machine learning. This repository was created to archive my progress along the way.
+I have worked with Python in developing projects for university and enjoyed the experience. I aim to become more proficient with the language and eventually learn how to use Python for data science. This repository was created to archive my progress along the way.
 
 #### Python courses taken:
 
-[The Modern Python 3 Bootcamp](https://www.udemy.com/the-modern-python3-bootcamp/) (in progress)</br>
+[The Modern Python 3 Bootcamp](https://www.udemy.com/the-modern-python3-bootcamp/)</br>
 Topics covered:
 * Numbers and Operators
 * Variables and Strings
